@@ -1,0 +1,17 @@
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\clint_first_api.exe
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\clint_first_api.deps.json
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\clint_first_api.runtimeconfig.json
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\clint_first_api.dll
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\clint_first_api.pdb
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.AssemblyInfoInputs.cache
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.AssemblyInfo.cs
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.csproj.CoreCompileInputs.cache
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.dll
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\refint\clint_first_api.dll
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.pdb
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.genruntimeconfig.cache
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\ref\clint_first_api.dll
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_first_api.csproj.AssemblyReference.cache
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alkac\OneDrive\Desktop\programing\api_c#\clint_first_api\obj\Debug\net8.0\clint_fi.5AF7D080.Up2Date
