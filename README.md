@@ -1,2 +1,7 @@
 # api_student_project_
-create api 
+### In this API there is a function
+Add Student 
+Modification to student information
+delete
+search
+
